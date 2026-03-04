@@ -10,6 +10,7 @@ MoneyAtlas is a Flutter application that combines real-time currency conversion 
 - Atlas view to explore currencies by country or region
 - Vault to save favorite currencies for quick access
 - Gallery for currency symbols and flags
+ - Gallery for currency symbols
 - Dark mode and responsive layouts for phones and tablets
 
 ---
@@ -33,7 +34,6 @@ This project will target **Windows** and **Android** first. Support for addition
   - `shared/` — Common widgets
 - `assets/` — Static JSON, flags and symbols
   - `currencies.json` — Currency encyclopedia data
-  - `flags/` — Country flag images
   - `symbols/` — Currency symbol images
 - `test/` — Unit and widget tests
 
