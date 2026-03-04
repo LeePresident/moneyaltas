@@ -1,0 +1,15 @@
+{
+  "dart.flutterSdkPath": "",
+  "dart.enableSdkFormatter": true,
+  "dart.lineLength": 80,
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "Dart-Code.dart-code"
+  },
+  "flutter.runMode": "debug",
+  "dart.devTools.location": "local",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.dart": true,
+    "source.organizeImports.dart": true
+  }
+}

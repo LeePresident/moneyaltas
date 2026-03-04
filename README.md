@@ -6,6 +6,7 @@ MoneyAtlas is a Flutter application that combines real-time currency conversion 
 
 ## ✨ Features
 - Real-time currency exchange (configurable rate provider)
+ - Exchange rate data: European Central Bank via Frankfurter API (see `lib/exchange/README.md` for details)
 - Currency encyclopedia with country, symbol, and historical notes
 - Atlas view to explore currencies by country or region
 - Vault to save favorite currencies for quick access

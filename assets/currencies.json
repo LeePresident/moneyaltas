@@ -1,0 +1,200 @@
+{
+  "AUD": {
+    "code": "AUD",
+    "name": "Australian Dollar",
+    "symbol": "A$",
+    "region": "Australia"
+  },
+  "BRL": {
+    "code": "BRL",
+    "name": "Brazilian Real",
+    "symbol": "R$",
+    "region": "Brazil"
+  },
+  "CAD": {
+    "code": "CAD",
+    "name": "Canadian Dollar",
+    "symbol": "C$",
+    "region": "Canada"
+  },
+  "CHF": {
+    "code": "CHF",
+    "name": "Swiss Franc",
+    "symbol": "CHF",
+    "region": "Switzerland"
+  },
+  "CNY": {
+    "code": "CNY",
+    "name": "Chinese Yuan",
+    "symbol": "¥",
+    "region": "China"
+  },
+  "CZK": {
+    "code": "CZK",
+    "name": "Czech Koruna",
+    "symbol": "Kč",
+    "region": "Czech Republic"
+  },
+  "DKK": {
+    "code": "DKK",
+    "name": "Danish Krone",
+    "symbol": "kr",
+    "region": "Denmark"
+  },
+  "EUR": {
+    "code": "EUR",
+    "name": "Euro",
+    "symbol": "€",
+    "region": "Eurozone"
+  },
+  "GBP": {
+    "code": "GBP",
+    "name": "British Pound Sterling",
+    "symbol": "£",
+    "region": "United Kingdom"
+  },
+  "HKD": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar",
+    "symbol": "HK$",
+    "region": "Hong Kong"
+  },
+  "HRK": {
+    "code": "HRK",
+    "name": "Croatian Kuna",
+    "symbol": "kn",
+    "region": "Croatia"
+  },
+  "HUF": {
+    "code": "HUF",
+    "name": "Hungarian Forint",
+    "symbol": "Ft",
+    "region": "Hungary"
+  },
+  "IDR": {
+    "code": "IDR",
+    "name": "Indonesian Rupiah",
+    "symbol": "Rp",
+    "region": "Indonesia"
+  },
+  "ILS": {
+    "code": "ILS",
+    "name": "Israeli Shekel",
+    "symbol": "₪",
+    "region": "Israel"
+  },
+  "INR": {
+    "code": "INR",
+    "name": "Indian Rupee",
+    "symbol": "₹",
+    "region": "India"
+  },
+  "ISK": {
+    "code": "ISK",
+    "name": "Icelandic Króna",
+    "symbol": "kr",
+    "region": "Iceland"
+  },
+  "JPY": {
+    "code": "JPY",
+    "name": "Japanese Yen",
+    "symbol": "¥",
+    "region": "Japan"
+  },
+  "KRW": {
+    "code": "KRW",
+    "name": "South Korean Won",
+    "symbol": "₩",
+    "region": "South Korea"
+  },
+  "MXN": {
+    "code": "MXN",
+    "name": "Mexican Peso",
+    "symbol": "$",
+    "region": "Mexico"
+  },
+  "MYR": {
+    "code": "MYR",
+    "name": "Malaysian Ringgit",
+    "symbol": "RM",
+    "region": "Malaysia"
+  },
+  "NOK": {
+    "code": "NOK",
+    "name": "Norwegian Krone",
+    "symbol": "kr",
+    "region": "Norway"
+  },
+  "NZD": {
+    "code": "NZD",
+    "name": "New Zealand Dollar",
+    "symbol": "NZ$",
+    "region": "New Zealand"
+  },
+  "PHP": {
+    "code": "PHP",
+    "name": "Philippine Peso",
+    "symbol": "₱",
+    "region": "Philippines"
+  },
+  "PLN": {
+    "code": "PLN",
+    "name": "Polish Zloty",
+    "symbol": "zł",
+    "region": "Poland"
+  },
+  "RON": {
+    "code": "RON",
+    "name": "Romanian Leu",
+    "symbol": "lei",
+    "region": "Romania"
+  },
+  "RUB": {
+    "code": "RUB",
+    "name": "Russian Ruble",
+    "symbol": "₽",
+    "region": "Russia"
+  },
+  "SEK": {
+    "code": "SEK",
+    "name": "Swedish Krona",
+    "symbol": "kr",
+    "region": "Sweden"
+  },
+  "SGD": {
+    "code": "SGD",
+    "name": "Singapore Dollar",
+    "symbol": "S$",
+    "region": "Singapore"
+  },
+  "THB": {
+    "code": "THB",
+    "name": "Thai Baht",
+    "symbol": "฿",
+    "region": "Thailand"
+  },
+  "TRY": {
+    "code": "TRY",
+    "name": "Turkish Lira",
+    "symbol": "₺",
+    "region": "Turkey"
+  },
+  "TWD": {
+    "code": "TWD",
+    "name": "Taiwan Dollar",
+    "symbol": "NT$",
+    "region": "Taiwan"
+  },
+  "USD": {
+    "code": "USD",
+    "name": "US Dollar",
+    "symbol": "$",
+    "region": "United States"
+  },
+  "ZAR": {
+    "code": "ZAR",
+    "name": "South African Rand",
+    "symbol": "R",
+    "region": "South Africa"
+  }
+}
